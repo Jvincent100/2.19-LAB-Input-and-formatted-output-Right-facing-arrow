@@ -1,0 +1,1 @@
+# 2.19-LAB-Input-and-formatted-output-Right-facing-arrow
